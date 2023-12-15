@@ -6,10 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!!!!
-	123123123
-	1234
-	!!!!!!!!!
+	Hello world
 	
 </h1>
 
